@@ -1,0 +1,10 @@
+name: Polypd
+description: ML Major Project
+
+path: /home/harsh/FYP/poly/Final_data
+train: /home/harsh/FYP/poly/Final_data/images
+val: /home/harsh/FYP/poly/Final_data/images
+names: 
+  0: polyp
+extension: jpg  # The file extension of your images
+train_test_split: 0.8  # The percentage of images to be used for the training set
